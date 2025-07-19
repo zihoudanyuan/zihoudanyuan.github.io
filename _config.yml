@@ -28,7 +28,7 @@ author:
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Beijing"
   employer         : "Meituan"
-  Email            : "fanhuichuan@meituan.com"
+  email            : "fanhuichuan@meituan.com" 
 
   # Academic websites
   academia         : # URL
